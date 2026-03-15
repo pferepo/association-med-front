@@ -7,6 +7,7 @@ import DashboardLayout from '@/layouts/DashboardLayout.vue'
 import InviteDashboard from '@/pages/invite/InviteDashboard.vue'
 import InviteActivities from '@/pages/invite/InviteActivities.vue'
 
+
 const routes = [
   // Page d'accueil -> InviteDashboard
   {
